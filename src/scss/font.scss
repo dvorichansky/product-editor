@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Corsa Grotesk';
+  src: local('Corsa Grotesk Regular'), local('Corsa-Grotesk-Regular'),
+    url('../font/CorsaGrotesk-Regular.woff2') format('woff2'),
+    url('../font/CorsaGrotesk-Regular.woff') format('woff'),
+    url('../font/CorsaGrotesk-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Futura PT Bold';
+  src: url('FuturaPT-Bold.eot');
+  src: url('FuturaPT-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../font/FuturaPT-Bold.woff') format('woff'),
+    url('../font/FuturaPT-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
